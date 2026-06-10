@@ -1,0 +1,6 @@
+{
+  "name": "Task Management Application",
+  "description": "A collaborative full-stack task management workspace with user authentication, custom filters, detailed views, and real-time Socket.io state synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
